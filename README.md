@@ -13,14 +13,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github.com/rahulrachh/media/blob/master/ezgif-3-d01fc8711644.gif" />
-
 -->
 **You can find me here:**
 
 <a href="https://www.instagram.com/rahul_rachh/" title="Instagram"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://leetcode.com/newborncoder/" title="Leetcode"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
 <a href="https://www.hackerrank.com/newborncoder/" title="Hackerrank"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
+
+<img align="right" src="https://github.com/rahulrachh/media/blob/master/ezgif-3-d01fc8711644.gif" />
 
 **Personal Stuff:**
 
@@ -31,7 +31,5 @@
 - 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: You can't understand recursion without understanding recursion.
-
-![This is Gyf](https://github.com/rahulrachh/media/blob/master/ezgif-3-d01fc8711644.gif)
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulrachh&hide=["stars"])
