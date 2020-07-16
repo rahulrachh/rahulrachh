@@ -32,4 +32,4 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: You can't understand recursion without understanding recursion.
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulrachh&hide=["stars"])
+![Rahul's github stats](https://github-readme-stats-xi.vercel.app//api?username=rahulrachh&hide=["stars"])
