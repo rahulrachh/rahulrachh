@@ -20,15 +20,15 @@
 <a href="https://leetcode.com/newborncoder/" title="Leetcode"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
 <a href="https://www.hackerrank.com/newborncoder/" title="Hackerrank"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
 
-**Personal Stuff: **
+**Personal Stuff:**
 
 - 🔭 I’m currently working on a Machine Learning Problem.
 - 🌱 I’m currently learning Javascript.
-- 🤔 I’m looking for help with Data Structures and Algorithm
-- 💬 Ask me about Python
+- 🤔 I’m looking for help with Data Structures and Algorithm.
+- 💬 Ask me about Python.
 - 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
-- 😄 Pronouns: he/him/it
-- ⚡ Fun fact: You can't understand recursion without understanding recursion
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: You can't understand recursion without understanding recursion.
 
 ![This is Gyf](https://github.com/rahulrachh/media/blob/master/ezgif-3-d01fc8711644.gif)
 
