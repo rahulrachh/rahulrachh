@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Javascript.
 - 🤔 I’m looking for help with Data Structures and Algorithm
 - 💬 Ask me about Python
-- 📫 How to reach me: ...
+- 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
 - 😄 Pronouns: he/him/it
 - ⚡ Fun fact: You can't understand recursion without understanding recursion
 
@@ -31,7 +31,5 @@
 <a href="https://www.instagram.com/rahul_rachh/" title="Instagram"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://leetcode.com/newborncoder/" title="Leetcode"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>
 <a href="https://www.hackerrank.com/newborncoder/" title="Hackerrank"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
-<a title="FreeCodeCamp"><img height="40" width="40" src="https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg" alt="no image here"/></a>
-
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulrachh&hide=["stars"])
