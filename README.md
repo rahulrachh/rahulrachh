@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am a software developer and an adept problem solver. I have mostly worked in Python/R. My areas of interests are Algorithms/Data Structures, Machine Learning and Web Development. I have also worked with Javascript and GoLang.
+Hello, I am a software developer and an adept problem solver. I have mostly worked in Python. My areas of interests are Algorithms/Data Structures, Machine Learning and Web Development. I have also worked with Javascript and GoLang.
 <!--
 **rahulrachh/rahulrachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,7 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 **Personal Stuff:**
 
 - 🔭 I’m currently working on a Machine Learning Problem.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript/Golang.
 - 🤔 I’m looking for help with learning new things effectively.
 - 💬 Ask me about Python.
 - 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
