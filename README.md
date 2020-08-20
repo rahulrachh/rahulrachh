@@ -25,12 +25,19 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 **Personal Stuff:**
 
 - 🔭 I’m currently working on a Machine Learning Problem.
-- 🌱 I’m currently learning Javascript/Golang.
+
+- 🌱 I’m currently learning Golang.
+
 - 🤔 I’m looking for help with learning new things effectively.
+
 - 💬 Ask me about Python.
+
 - 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
+
 - 😄 Pronouns: he/him.
+
 - ⚡ Fun fact: You can't understand recursion without understanding recursion.
+
 
 <br>
 <br>
