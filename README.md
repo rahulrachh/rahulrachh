@@ -21,7 +21,7 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 <code><a href="https://www.hackerrank.com/newborncoder/" title="Hackerrank"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a></code>
 <code><a href="https://www.linkedin.com/in/rahul-rachh/" title="Linkedin"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></code>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulrachh.rahulrachh)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulrachh.rahulrachh)
 
 <img align="right" src="https://github.com/rahulrachh/media/blob/master/ezgif-3-d01fc8711644.gif" />
 
