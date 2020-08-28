@@ -45,4 +45,4 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 <br>
 <br>
 
-![Rahul's github stats](https://github-readme-stats.vercel.app//api?username=rahulrachh&hide=["stars"]&count_private=true&show_icons=true&theme=algolia  )
+![Rahul's github stats](https://github-readme-stats.vercel.app//api?username=rahulrachh&show_icons=true&theme=algolia&hide=stars)
