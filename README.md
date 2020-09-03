@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 Hello, I am a software developer and an adept problem solver. I have mostly worked in Python. My areas of interests are Algorithms/Data Structures, Machine Learning and Web Development. I have also worked with Javascript and GoLang.
 <!--
 **rahulrachh/rahulrachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
