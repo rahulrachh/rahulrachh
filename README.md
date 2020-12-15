@@ -33,7 +33,7 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 
 - 💬 Ask me about Python.
 
-- 📫 How to reach me: [rahul.rachh3005.rr@gmail.com](mailto:rahul.rachh3005.rr@gmail.com)
+- 📫 How to reach me: [rahulrachh3@gmail.com](mailto:rahulrachh3@gmail.com)
 
 - 😄 Pronouns: he/him.
 
