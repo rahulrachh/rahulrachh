@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello, I am a software developer and an adept problem solver. I have mostly worked in Python. My areas of interests are Algorithms/Data Structures, Machine Learning and Web Development. I have also worked with Javascript and GoLang.
+Hello, I am a software developer and an adept problem solver. I am looking for Co-op and Internsip opportunities for Winter and Summer 2022 respectively. My areas of interests are Algorithms/Data Structures, Web Development and  Machine Learning.
 <!--
 **rahulrachh/rahulrachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 -->
 **You can find me here:**
 
-<code><a href="https://www.instagram.com/newborncoder/" title="Instagram"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></code>
+<code><a href="https://www.instagram.com/rahul_rachh/" title="Instagram"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></code>
 <code><a href="https://leetcode.com/newborncoder/" title="Leetcode"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a></code>
 <code><a href="https://www.hackerrank.com/newborncoder/" title="Hackerrank"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a></code>
 <code><a href="https://www.linkedin.com/in/rahul-rachh/" title="Linkedin"><img height="32" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></code>
@@ -35,7 +35,7 @@ Hello, I am a software developer and an adept problem solver. I have mostly work
 
 - 📫 How to reach me: [rahulrachh3@gmail.com](mailto:rahulrachh3@gmail.com)
 
-- 😄 Pronouns: he/him.
+<!-- - 😄 Pronouns: he/him. -->
 
 - ⚡ Fun fact: You can't understand recursion without understanding recursion.
 
