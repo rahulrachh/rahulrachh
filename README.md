@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello, I am a software developer and an adept problem solver. I am looking for Co-op and Internsip opportunities for Winter and Summer 2022 respectively. My areas of interests are Algorithms/Data Structures, Web Development and  Machine Learning.
+Hello, I am a software developer and an adept problem solver. I am looking for other opportunities. My areas of interests are Algorithms/Data Structures, Web Development and  Machine Learning.
 <!--
 **rahulrachh/rahulrachh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Hello, I am a software developer and an adept problem solver. I am looking for C
 
 - 🔭 I’m currently working on a Machine Learning Problem.
 
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Rust and Golang.
 
 - 🤔 I’m looking for help with learning new things effectively.
 
